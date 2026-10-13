@@ -1,0 +1,13 @@
+# Compiled classes
+*.class
+
+# Local files not meant for the repository
+ReadMe.txt
+_backup_originale.zip
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.iml
